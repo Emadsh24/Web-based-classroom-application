@@ -6,7 +6,7 @@
 
 ### [Live Demo](http://skeleton.mernbook.com/ "MERN Skeleton") -->
 
-![MERN Skeleton](https://s3.amazonaws.com/mernbook/git+/skeleton.png "MERN Skeleton")
+![MERN Skeleton](https://static.packt-cdn.com/products/9781839215414/graphics/assets/100a0b00-ab67-4a46-84d5-e23a289a1992.png "MERN Skeleton")
 #### What you need to run this code
 1. Node (13.12.0)
 2. NPM (6.14.4)
