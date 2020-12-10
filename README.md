@@ -2,10 +2,11 @@
 
 <!-- A skeleton application with basic user CRUD and auth features - developed using React, Node, Express and MongoDB. -->
 
-<!-- ![MERN Skeleton](https://s3.amazonaws.com/mernbook/git+/skeleton.png "MERN Skeleton") 
+<!-- ![MERN 
 
 ### [Live Demo](http://skeleton.mernbook.com/ "MERN Skeleton") -->
 
+![MERN Skeleton](https://s3.amazonaws.com/mernbook/git+/skeleton.png "MERN Skeleton")
 #### What you need to run this code
 1. Node (13.12.0)
 2. NPM (6.14.4)
